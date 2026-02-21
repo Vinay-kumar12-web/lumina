@@ -194,7 +194,7 @@ http://localhost:3000
 
 ## Author
 
-Shubhangam Pandey
+Vinay kumar
 
 ---
 
